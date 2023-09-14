@@ -44,7 +44,7 @@ We train the model using data augmentation techniques, including rotation, width
 After training, we evaluate the model's performance on the test dataset. We calculate the test accuracy, display predictions with label probabilities, and visualize a confusion matrix to understand classification performance.
 
 ![pred](images/pred.png)
-![act](images/act.png)
+
 ![conf](images/conf.png)
 
 ## Results
