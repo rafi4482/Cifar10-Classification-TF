@@ -49,7 +49,7 @@ After training, we evaluate the model's performance on the test dataset. We calc
 
 ## Results
 
-Our trained model achieves an accuracy of XX% on the test dataset. We also calculate and display metrics such as F1 score, recall, and precision.
+Our trained model achieves an accuracy of 80% (approx.) on the test dataset. We also calculate and display metrics such as F1 score, recall, and precision.
 
 ![f1](images/f1.png)
 
