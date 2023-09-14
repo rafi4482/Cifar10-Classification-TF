@@ -54,7 +54,6 @@ Our trained model achieves an accuracy of XX% on the test dataset. We also calcu
 ![f1](images/f1.png)
 
 
-![Evaluation](evaluation.png)
 
 
 
