@@ -1,6 +1,6 @@
 # CIFAR-10 Image Classification with Convolutional Neural Networks
 
-![CIFAR-10](cifar10.png)
+![CIFAR-10](images/cifar10.png)
 
 In this project, we build and train a Convolutional Neural Network (CNN) to classify images from the CIFAR-10 dataset. The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 different classes, with 6,000 images per class. We use TensorFlow and Keras to create our deep learning model.
 
