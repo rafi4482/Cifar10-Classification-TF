@@ -11,9 +11,7 @@ In this project, we build and train a Convolutional Neural Network (CNN) to clas
 - [Training](#training)
 - [Evaluation](#evaluation)
 - [Results](#results)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Overview
 
@@ -36,13 +34,10 @@ The CIFAR-10 dataset contains images of 10 different classes, including 'airplan
 
 Our CNN model architecture consists of multiple convolutional layers, batch normalization, max-pooling, dropout, and fully connected layers. We use the Adam optimizer and categorical cross-entropy loss for training.
 
-![Model Architecture](model_architecture.png)
-
 ## Training
 
 We train the model using data augmentation techniques, including rotation, width and height shifting, and horizontal flipping. We specify the batch size, number of epochs, and monitor the training progress.
 
-![Training](training.png)
 
 ## Evaluation
 
@@ -54,19 +49,8 @@ After training, we evaluate the model's performance on the test dataset. We calc
 
 Our trained model achieves an accuracy of XX% on the test dataset. We also calculate and display metrics such as F1 score, recall, and precision.
 
-## Usage
+![Evaluation](evaluation.png)
 
-You can use this project as a starting point for image classification tasks or as a reference for building and training CNN models with TensorFlow and Keras. Feel free to fork and modify the code to fit your specific needs.
 
-## Contributing
 
-Contributions are welcome! If you have any ideas, enhancements, or bug fixes, please open an issue or create a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-[GitHub Repository](https://github.com/yourusername/your-repo)
 
