@@ -28,7 +28,7 @@ In this project, we:
 
 The CIFAR-10 dataset contains images of 10 different classes, including 'airplane,' 'automobile,' 'bird,' 'cat,' 'deer,' 'dog,' 'frog,' 'horse,' 'ship,' and 'truck.' We load the dataset and visualize a sample image from each class.
 
-![Sample Images](sample_images.png)
+![dataset](dataset.png)
 
 ## Model Architecture
 
